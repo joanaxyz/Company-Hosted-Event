@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Depreciation" section_id="1be035142fa3831098dad7ca6fa4e335" sys_domain="global" table="x_2205879_act_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>depreciation</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_id>17e035142fa3831098dad7ca6fa4e337</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_2205879_act_table" sys_domain="global" view="Default view">1be035142fa3831098dad7ca6fa4e335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>depreciation_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_id>dbe035142fa3831098dad7ca6fa4e33a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_2205879_act_table" sys_domain="global" view="Default view">1be035142fa3831098dad7ca6fa4e335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>salvage_value</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_id>9be035142fa3831098dad7ca6fa4e338</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_2205879_act_table" sys_domain="global" view="Default view">1be035142fa3831098dad7ca6fa4e335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_id>97e035142fa3831098dad7ca6fa4e33b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_2205879_act_table" sys_domain="global" view="Default view">1be035142fa3831098dad7ca6fa4e335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>residual_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_id>57e035142fa3831098dad7ca6fa4e339</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_2205879_act_table" sys_domain="global" view="Default view">1be035142fa3831098dad7ca6fa4e335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>residual</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_id>53e035142fa3831098dad7ca6fa4e33c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_2205879_act_table" sys_domain="global" view="Default view">1be035142fa3831098dad7ca6fa4e335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>depreciated_amount</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_id>13e035142fa3831098dad7ca6fa4e33a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_2205879_act_table" sys_domain="global" view="Default view">1be035142fa3831098dad7ca6fa4e335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_id>1fe035142fa3831098dad7ca6fa4e33c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_2205879_act_table" sys_domain="global" view="Default view">1be035142fa3831098dad7ca6fa4e335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>M2M.alm_asset.m2m_fixed_asset_to_asset.asset</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_id>dfe035142fa3831098dad7ca6fa4e337</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_2205879_act_table" sys_domain="global" view="Default view">1be035142fa3831098dad7ca6fa4e335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Depreciation</caption>
+            <header>false</header>
+            <name>x_2205879_act_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1be035142fa3831098dad7ca6fa4e335</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2205879_act_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="act" source="x_2205879_act">83a0b9d02fa3831098dad7ca6fa4e3aa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="act">83a0b9d02fa3831098dad7ca6fa4e3aa</sys_scope>
+            <sys_update_name>sys_ui_section_1be035142fa3831098dad7ca6fa4e335</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

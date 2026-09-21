@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="5be035142fa3831098dad7ca6fa4e331" sys_domain="global" table="x_2205879_act_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebe035142fa3831098dad7ca6fa4e366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2205879_act_table" name="x_2205879_act_table" sys_domain="global" view="Default view">5be035142fa3831098dad7ca6fa4e331</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_2205879_act_table" sys_domain="global" view="Default view">57e035142fa3831098dad7ca6fa4e35a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23e035142fa3831098dad7ca6fa4e37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2205879_act_table" name="x_2205879_act_table" sys_domain="global" view="Default view">5be035142fa3831098dad7ca6fa4e331</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="x_2205879_act_table" sys_domain="global" view="Default view">a3e035142fa3831098dad7ca6fa4e367</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fe035142fa3831098dad7ca6fa4e34d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2205879_act_table" name="x_2205879_act_table" sys_domain="global" view="Default view">5be035142fa3831098dad7ca6fa4e331</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_2205879_act_table" sys_domain="global" view="Default view">57e035142fa3831098dad7ca6fa4e342</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fe035142fa3831098dad7ca6fa4e359</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2205879_act_table" name="x_2205879_act_table" sys_domain="global" view="Default view">5be035142fa3831098dad7ca6fa4e331</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_2205879_act_table" sys_domain="global" view="Default view">57e035142fa3831098dad7ca6fa4e34e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3e035142fa3831098dad7ca6fa4e386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2205879_act_table" name="x_2205879_act_table" sys_domain="global" view="Default view">5be035142fa3831098dad7ca6fa4e331</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_2205879_act_table" sys_domain="global" view="Default view">e7e035142fa3831098dad7ca6fa4e37f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fe035142fa3831098dad7ca6fa4e341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2205879_act_table" name="x_2205879_act_table" sys_domain="global" view="Default view">5be035142fa3831098dad7ca6fa4e331</sys_ui_form>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_2205879_act_table" sys_domain="global" view="Default view">1be035142fa3831098dad7ca6fa4e335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2205879_act_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-21 15:43:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5be035142fa3831098dad7ca6fa4e331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2205879_act_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="act" source="x_2205879_act">83a0b9d02fa3831098dad7ca6fa4e3aa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="act">83a0b9d02fa3831098dad7ca6fa4e3aa</sys_scope>
+            <sys_update_name>sys_ui_form_sections_5be035142fa3831098dad7ca6fa4e331</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-21 15:43:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
